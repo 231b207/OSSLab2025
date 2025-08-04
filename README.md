@@ -2,7 +2,10 @@
 
 This repository contains lab exercises for the Open Source Software Lab - 2025
 
-enroll no.:231b207 
+Name: Ojasvi Mishra
 
-name: ojasvi mishra
+enroll no.: 231b207 
+
+
+
 
